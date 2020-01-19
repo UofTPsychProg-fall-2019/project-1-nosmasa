@@ -12,7 +12,8 @@
 #There are 16 conditions with 4 parameters in both trial 1 and trial 2.
 #Excel file "Project1.xlxs" contains all the required content to run the experiment. 
 #After each stimuli feedback is presented based on the response made by the paritcipant. 
-#Response keys (incorrect and correct) and response reaction times are measured and collected in an excel file. 
+#Response keys (incorrect and correct) and response reaction times are measured and collected in an excel file once the experiment has 
+#been completed. 
 
 
 from __future__ import division  # so that 1/3=0.333 instead of 1/3=0
