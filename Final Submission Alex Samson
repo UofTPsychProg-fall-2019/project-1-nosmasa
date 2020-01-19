@@ -8,6 +8,7 @@
 #experiment in my MA research however, I did learn a great deal about how to build an experiment and how to adjust an experiment to meet 
 #the needs of a geriatric individual. 
 
+#This assignment was created in Psychopy.
 #There are 16 conditions with 4 parameters in both trial 1 and trial 2.
 #Excel file "Project1.xlxs" contains all the required content to run the experiment. 
 #After each stimuli feedback is presented based on the response made by the paritcipant. 
