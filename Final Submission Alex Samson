@@ -4,9 +4,14 @@
 #adults and change it to benefit success in the geriatric population. As people age they can lose their vision, there can be a decrease 
 #in task switching abilities, attention and even focus. For these reasons, my Stroop experiment (Samson Stroop) included larger font 
 #size, an increase in the time between frames (i.e. between stimuli presentation, response, and feedback presentation), and created 
-#shorter trial loops with an as-long-as-you-want break in the middle to allow time to stretch and regain focus. I will not be using this 
+#shorter trial loops with an as-long-as-you-want break in the middle to allow time to stretch and regain focus. There is no time 
+#constraint to each stimuli because some older indivudals have time keeping up with fast pace experiments and this reduces any stress
+#that a time constraint may cause.However, the participants are asked to respond as quickly as they can. I will not be using this 
 #experiment in my MA research however, I did learn a great deal about how to build an experiment and how to adjust an experiment to meet 
-#the needs of a geriatric individual. 
+#the needs of a geriatric individual. I am confident that this experiment would increase the success rate in the geriatric population 
+#Stroop scores because it is cattered more to their speed. In addition, this version of the Stroop allows older indivuals, who tend to
+#become more slow with age, the chance to actually answer each stimuli presentation which may not always be the cause in the classic 
+Stroop because it is fast pace. 
 
 #This assignment was created in Psychopy.
 #There are 16 conditions with 4 parameters in both trial 1 and trial 2.
